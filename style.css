@@ -1,0 +1,25 @@
+.container-fluid {
+    background-color: #A9DFBF;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+#bear-melon {
+    width: 100%;
+}
+
+#extra-info {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#melon-table {
+   height: 150px; 
+}
